@@ -1,0 +1,6 @@
+PS C:\Users\hrite\Desktop\Rhabdom-1> git branch gittutorial.md
+PS C:\Users\hrite\Desktop\Rhabdom-1> git checkout gittutorial.md
+Switched to branch 'gittutorial.md'
+M       filenew.md
+D       harshit
+PS C:\Users\hrite\Desktop\Rhabdom-1>
